@@ -56,3 +56,25 @@ Open a terminal and execute the following commands to download the github reposi
 git clone https://github.com/Telefonica-Scientific-Research/GenAI_Channel_Modeling
 cd GenAI_Channel_Modeling 
 ```
+
+---
+
+## Related resources
+
+- **Code repository:** [GenAI_Channel_Modeling](https://github.com/Telefonica-Scientific-Research/GenAI_Channel_Modeling)
+- **Datasets:** [GenAI_Channel_Modeling_Datasets](https://huggingface.co/datasets/PaulAlm/GenAI_Channel_Modeling_Datasets)
+
+---
+
+## Citation
+
+```bibtex
+@article{beyraghi2025sitespecific,
+  title   = {Site-Specific MIMO Channel Generation via Diffusion and Flow Matching:
+             Fidelity, Efficiency, and Downstream Utility},
+  author  = {Beyraghi, Sina and Sadeghian, Masoud and Bin Ismail, Firdous and
+             Lozano, Angel and Almasan, Paul and Geraci, Giovanni},
+  journal = {arXiv preprint arXiv:2510.10190},
+  year    = {2025}
+}
+```
