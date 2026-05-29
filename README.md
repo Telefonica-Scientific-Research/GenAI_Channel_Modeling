@@ -1,6 +1,6 @@
 # Site-Specific MIMO Channel Generation via Diffusion and Flow Matching: Fidelity, Efficiency, and Downstream Utility
 
-#### Link to paper (to be updated): [[https://arxiv.org/abs/2510.10190](https://arxiv.org/abs/2510.10190)]
+#### Link to paper (to be updated): [[TBC](TBC)]
 #### Authors: Sina Beyraghi, Masoud Sadeghian, Firdous Bin Ismail, Angel Lozano, Paul Almasan, and Giovanni Geraci
 
 Contact: Sina Beyraghi (<mohammadsina.beyraghi@telefonica.com>)
